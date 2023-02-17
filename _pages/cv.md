@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* ** Reserach Assistant**
+* **Reserach Assistant**
   * Boston University
   * Duties included: Research on security of PHP application through integrated analysis of the PHP interpreter and web apps
   * Supervisor: Professor Manuel Egele
 
-* ** Research Assistant**
+* **Research Assistant**
   * Amirkabir University of Tech.
   * Duties included: Designing multi-party computation protocols
   * Supervisor: Professor Babak Sadeghian
