@@ -1,11 +1,15 @@
 ---
-title: "Talk 1 on Relevant Topic in Your Field"
+title: "You shall not pass: Mitigating SQL Injection Attacks on Legacy Web Applications"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
-venue: "UC San Francisco, Department of Testing"
-date: 2012-03-01
-location: "San Francisco, California"
+permalink: /talks/2020-10-5-sqlblock
+venue: "Asia CCS"
+date: 2020-10-5
+location: "Taipei, Taiwan"
 ---
 
-This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
+By: Rasoul Jahanshahi
+
+SQL injection (SQLi) attacks pose a significant threat to the security of web applications. Existing approaches do not support object- oriented programming that renders these approaches unable to protect the real-world web apps such as Wordpress, Joomla, or Drupal against SQLi attacks.
+We propose a novel hybrid static-dynamic analysis for PHP web applications that limits each PHP function for accessing the database. Our tool, SQLBlock, reduces the attack surface of the vulnerable PHP functions in a web application to a set of query descriptors that demonstrate the benign functionality of the PHP function.
+We implement SQLBlock as a plugin for MySQL and PHP. Our approach does not require any modification to the web app. We evaluate SQLBlock on 11 SQLi vulnerabilities in Wordpress, Joomla, Drupal, Magento, and their plugins. We demonstrate that SQLBlock successfully prevents all 11 SQLi exploits with negligible perfor- mance overhead (i.e., a maximum of 3% on a heavily-loaded web server).
