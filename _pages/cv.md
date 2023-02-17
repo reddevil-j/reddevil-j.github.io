@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, Isfahan University of Tech., 2009
-* M.S. in Information Technology, Amirkabir University of Tech., 2013
 * Ph.D in Computer Engineering, Boston University, 2023 (expected)
+* M.S. in Information Technology, Amirkabir University of Tech., 2013
+* B.S. in Software Engineering, Isfahan University of Tech., 2009
 
 Work experience
 ======
