@@ -1,7 +1,7 @@
 ---
 title: "You shall not pass: Mitigating SQL Injection Attacks on Legacy Web Applications"
 collection: talks
-type: "Talk"
+type: "Conference proceedings talk"
 permalink: /talks/2020-10-5-sqlblock
 venue: "Asia CCS"
 date: 2020-10-5
