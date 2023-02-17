@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, Isfahan University of Tech., 2009
+* M.S. in Information Technology, Amirkabir University of Tech., 2013
+* Ph.D in Computer Engineering, Boston University, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* ** Reserach Assistant**
+  * Boston University
+  * Duties included: Research on security of PHP application through integrated analysis of the PHP interpreter and web apps
+  * Supervisor: Professor Manuel Egele
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* ** Research Assistant**
+  * Amirkabir University of Tech.
+  * Duties included: Designing multi-party computation protocols
+  * Supervisor: Professor Babak Sadeghian
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * Python, C/C++, Go Lang, Java, PHP
+* Vulnerability Detection
+  * Fuzzing
+  * Static/Dynamic taint analysis
+  * Source-code Auditing
+* Tools
+  * Burp, Docker, Metasploit, SQLMap, Wireshark, gdb, Rabbitmq
 
 Publications
 ======
@@ -47,13 +49,9 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer for IEEE Transactions on Emerging Topics in Computing (2020)
+* Artifact reviewer for Annual Computer Security Applications Conference (2017, 2018)
