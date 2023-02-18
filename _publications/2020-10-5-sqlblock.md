@@ -3,7 +3,7 @@ title: "You shall not pass: Mitigating SQL Injection Attacks on Legacy Web Appli
 collection: publications
 permalink: /publication/2020-10-5-sqlblock
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+date: 2020-10-5
 venue: 'AsiaCSS'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3320269.3384760'
 citation: 'R Jahanshahi, A Doupe, and M Egele. You shall not pass: Mitigating SQL Injection Attacks on Legacy Web Applications. Proceedings of Asia conference on computer and communications security (Asia CCS). 2020'
